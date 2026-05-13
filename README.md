@@ -3,8 +3,8 @@
 **Tema:** Locadora de Filmes (Básico)  
 **Disciplina:** Programação de Computadores  
 **Professora:** Profa. Dra. Andrea Ono Sakai  
-**Integrantes:** _(preencha com os nomes do grupo)_  
-**Período/Turma:** _(preencha com o período e turma)_  
+**Integrantes:** Felipe Pereira Roberto, Maria Eduarda Queiroz Correa, Omar Alejandro de Jesus Bravo Hernandez  
+**Período/Turma:** Diurno  
 **Ano:** 2026
 
 ---
